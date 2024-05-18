@@ -6,7 +6,7 @@ Projeto em Flutter desenvolvido na faculdade utilizando ferramentas de desenvolv
 
 ### Passos:
 
-- Baixe e instale o arquivo `my_doctor.apk` dentro da pasta `flutter_apk` em seu dispositivo Android.
+- Baixe e instale o arquivo `my_doctor.apk` em seu dispositivo Android.
 - Certifique-se de que o aplicativo foi instalado corretamente.
 - Execute e teste o aplicativo MyDoctor.
 
