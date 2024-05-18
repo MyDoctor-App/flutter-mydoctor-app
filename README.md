@@ -1,16 +1,32 @@
-# my_doctor_app
+# MyDoctor App
 
-A new Flutter project.
+Projeto em Flutter desenvolvido na faculdade utilizando ferramentas de desenvolvimento para dispositivos móveis.
 
-## Getting Started
+## Executando o MyDoctor App Flutter no seu celular Android
 
-This project is a starting point for a Flutter application.
+### Passos:
 
-A few resources to get you started if this is your first Flutter project:
+- Baixe e instale o arquivo `my_doctor.apk` dentro da pasta `flutter_apk` em seu dispositivo Android.
+- Certifique-se de que o aplicativo foi instalado corretamente.
+- Execute e teste o aplicativo MyDoctor.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Executando o MyDoctor App Flutter no Computador Local
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Pré-requisitos:
+
+- Ter o Flutter instalado em seu computador. Siga as instruções em https://flutter.dev/docs/get-started/install para instalar o Flutter.
+- Um editor de código de sua preferência, como Visual Studio Code ou IntelliJ IDEA.
+
+### Passos:
+
+1. Navegue até o diretório do seu projeto MyDoctor: Abra um terminal ou prompt de comando e navegue até o diretório raiz do projeto MyDoctor.
+
+2. Execute o comando de compilação: Execute o seguinte comando no terminal: `flutter run`
+
+3. Este comando irá compilar e executar seu aplicativo em um simulador virtual que representa um dispositivo móvel.
+
+
+
+### *Observações*:
+
+- Se você estiver usando um simulador de Android, certifique-se de ter as Imagens do Sistema Android instaladas
