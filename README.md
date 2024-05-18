@@ -40,7 +40,7 @@ Projeto em Flutter desenvolvido na faculdade utilizando ferramentas de desenvolv
 
 **Funcionalidades principais:**
 
-![Imagem do WhatsApp de 2024-05-18 à(s) 17 38 42_20036a2f](https://github.com/MyDoctor-App/flutter-mydoctor-app/assets/57449323/f0f28fb4-fd1a-4359-874d-33ac9391e6aa) { width: 300 }
+![home_page](https://github.com/MyDoctor-App/flutter-mydoctor-app/assets/57449323/f0f28fb4-fd1a-4359-874d-33ac9391e6aa)
 
 
 * **Login como Paciente ou Doutor:** Faça login no App com seu acesso de paciente ou de doutor. Validação de login na API.
