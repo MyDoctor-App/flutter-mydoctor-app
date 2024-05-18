@@ -6,9 +6,15 @@ Projeto em Flutter desenvolvido na faculdade utilizando ferramentas de desenvolv
 
 ### Passos:
 
-- Baixe e instale o arquivo `my_doctor.apk` em seu dispositivo Android.
+- Baixe e instale o arquivo `my_doctor.apk` localizado dentro da raiz do projeto em seu dispositivo Android.
 - Certifique-se de que o aplicativo foi instalado corretamente.
 - Execute e teste o aplicativo MyDoctor.
+
+#### Credenciais para login no App:
+
+- email: `admin@mydoctor.com`
+- senha: `mydoc123`
+- tipo: `Doutor`
 
 ## Executando o MyDoctor App Flutter no Computador Local
 
