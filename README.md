@@ -13,8 +13,8 @@ Projeto em Flutter desenvolvido na faculdade utilizando ferramentas de desenvolv
 
 #### Credenciais para login no App:
 
-- email: `admin@mydoctor.com`
-- senha: `mydoc123`
+- email: `adminplatform@mydoctor.com`
+- senha: `platform123`
 - tipo: `Doutor`
 
 ## Executando o MyDoctor App Flutter no Computador Local
